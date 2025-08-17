@@ -1,0 +1,14 @@
+    body{
+        background-color: cyan;
+    }
+    /* #btn1{
+        background-color: red;
+    }
+    #btn2{
+        background-color: green;
+    } */
+    .end-btns{
+        background-color: red;
+        border-radius: 10px;
+        padding: 10px;
+    }
